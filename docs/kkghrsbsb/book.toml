@@ -1,0 +1,7 @@
+[book]
+title = "piper_control_selftest"
+authors = ["kkghrsbsb"]
+language = "en"
+
+[output.html]
+git-repository-url = "https://github.com/kkghrsbsb/piper_control"
